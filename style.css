@@ -1,15 +1,46 @@
 #hello{
 
     color: grey;
-    font-size: 16ch;
-    margin-bottom: auto;
-
+    font-size: 80%;
+    margin-top: 20%;
+    position: relative;
+    float: right;
+    
 }
 
 #carnage{
 
-    color: darkgray;
-    font-size: 12ch;
-    margin-right: auto;
+    color: rgb(26, 86, 214);
+    font-size: 80%;
+    margin-right: 40%;
+    position: relative;
+    float: left;
+    
+}
+
+#header{
+
+    color: rgb(187, 70, 70);
+    font-size: 40px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    text-align: center;
+
 
 }
+
+img {
+
+    
+    border-bottom: 60pt; color: black; 
+    border-color: black;
+    width: 100px;
+    height: 100px;
+    position: relative;
+    
+
+
+
+}
+
+
+
